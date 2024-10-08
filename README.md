@@ -38,8 +38,8 @@ Desarrollador Full Stack apasionado por crear soluciones innovadoras y eficiente
 
 ## 🌐 Conéctate conmigo
 
-- LinkedIn: [https://www.linkedin.com/in/brayan-fernandez-8182b0239/]
-- Portfolio: [portfolio-app-brayan.vercel.app]
+- LinkedIn: [Perfil de Linkedin](https://www.linkedin.com/in/brayan-fernandez-8182b0239/)
+- Portfolio: [PortFolio](https://portfolio-app-brayan.vercel.app)
 - Email: brayanfe2009@gmail.com
 
 ## 🗣️ Idiomas
