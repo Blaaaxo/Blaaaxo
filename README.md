@@ -12,7 +12,7 @@ Desarrollador Full Stack apasionado por crear soluciones innovadoras y eficiente
 
 - 💻 Lenguajes: PHP, Java, JavaScript, TypeScript, Python
 - 🔧 Frameworks: Laravel, Spring Boot, Angular, React, Flask
-- 🗄️ Bases de datos: MySQL, PostgreSQL
+- 🗄️ Bases de datos: MySQL, PostgreSQL, MongoDB
 - 🌐 Frontend: HTML, CSS, Tailwind CSS, BootStrap, Alpine.js
 - 🚀 Otros: Node.js, WordPress, Android Studio
 
