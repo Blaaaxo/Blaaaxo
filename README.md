@@ -22,20 +22,6 @@ Desarrollador Full Stack apasionado por crear soluciones innovadoras y eficiente
 - Universidad Angular - De Cero a Experto en Angular (Udemy)
 - React y Spring Boot: Crea tu primera App Full Stack (Udemy)
 
-## 🌟 Proyectos Destacados
-
-1. **Plataforma de E-Learning para Buceo**
-   - Desarrollo full-stack de una plataforma para vender cursos en línea
-   - Tecnologías: PHP (Laravel), JavaScript, MySQL, Tailwind CSS
-
-2. **Gestión de Infraestructura Urbana**
-   - Aplicación Android para gestión de postes de luz
-   - Tecnologías: Java (Android Studio), Oracle APEX, Oracle Database
-
-3. **Analizador de Seguridad Web**
-   - Herramienta web para análisis de seguridad de URLs
-   - Tecnologías: Python, Flask, Tailwind CSS
-
 ## 🌐 Conéctate conmigo
 
 - LinkedIn: [Perfil de Linkedin](https://www.linkedin.com/in/brayan-fernandez-8182b0239/)
