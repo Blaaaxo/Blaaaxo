@@ -4,7 +4,7 @@ Desarrollador Full Stack apasionado por crear soluciones innovadoras y eficiente
 
 ## 🚀 Sobre mí
 
-- 🎓 Estudiante de Ingeniería en Sistemas
+- 🎓 Ingeniero en Sistemas
 - 💼 Experiencia como Desarrollador Full Stack, Desarrollador web
 - 🌱 Siempre aprendiendo y mejorando mis habilidades
 
